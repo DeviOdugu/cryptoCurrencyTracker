@@ -1,0 +1,38 @@
+/* Write your CSS code here */
+.card {
+  border: 2px #00e7ff solid;
+  color: #ffffff;
+}
+
+.heading {
+  color: #00e7ff;
+  font-size: 30px;
+  font-family: 'Roboto';
+}
+
+.c {
+  display: flex;
+  justify-content: space-between;
+  background-color: #092e33;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 10px;
+  padding-left: 10px;
+}
+
+.d {
+  display: flex;
+  padding: 10px;
+}
+
+.usd {
+  padding-right: 40px;
+}
+
+.euro {
+  padding-right: 30px;
+}
+
+.coin-type {
+  padding-left: 30px;
+}

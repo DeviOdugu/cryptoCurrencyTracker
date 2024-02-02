@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+.a {
+  display: flex;
+  justify-content: space-between;
+}
+
+.b {
+  display: flex;
+  justify-content: center;
+}
+
+.value {
+  padding-right: 30px;
+}
+
+.image {
+  margin-top: 15px;
+  margin-right: 10px;
+}
